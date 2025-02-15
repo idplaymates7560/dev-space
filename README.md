@@ -1,1 +1,1 @@
-A practical example of data visualization
+A collection of tutorials for data science
