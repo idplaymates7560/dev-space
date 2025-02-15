@@ -1,1 +1,1 @@
-A collection of tutorials for data science
+Trying out user interface in Django
