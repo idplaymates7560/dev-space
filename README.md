@@ -1,1 +1,1 @@
-A basic example of Kotlin
+A practical example of data visualization
